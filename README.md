@@ -1,0 +1,2 @@
+Lists and strings	lists, slicing, string methods	Work with a list of cities; count the vowels in a word; manage a list of favourite items; check a palindrome using slicing; store and report subject marks.
+
